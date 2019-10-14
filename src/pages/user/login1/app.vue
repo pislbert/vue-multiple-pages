@@ -2,7 +2,7 @@
   <el-card class="login-card">
     <div slot="header">
       <img :src="logo" class="logo-img">
-      <span class="logo-text">Management System</span>
+      <span class="logo-text">Management System 2</span>
     </div>
     <el-form class="login" label-width="100px" >
       <el-form-item label="Phone">
