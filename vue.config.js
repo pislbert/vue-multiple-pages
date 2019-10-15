@@ -23,5 +23,6 @@ module.exports = {
         pathRewrite: { '^/api': '' }
       }
     }
-  }
+  },
+  publicPath: "/dist"
 }
